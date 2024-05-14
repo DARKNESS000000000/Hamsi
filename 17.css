@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+
+}
+div{
+    height: 100vh;
+    color: rgb(0, 0, 0);
+    
+}
+#ALMA {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    background-image: linear-gradient(to right,rgb(6, 103, 160),rgb(255, 255, 255),rgb(5, 5, 5) );
+}
